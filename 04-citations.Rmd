@@ -1,5 +1,3 @@
-# (PART\*) Section Poop {-}
-
 # Footnotes and citations 
 
 ## Footnotes
