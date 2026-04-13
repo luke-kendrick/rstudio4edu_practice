@@ -5,7 +5,10 @@ thm:tri
 usage
 render-book
 preview-book
+hello-bookdown
 a-section
+footnotes-and-citations
+footnotes
 citations
 cross
 chapters-and-sub-chapters
@@ -19,3 +22,5 @@ sharing-your-book
 publishing
 pages
 metadata-for-sharing
+appendix-a
+appendix-b

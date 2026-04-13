@@ -9,6 +9,7 @@ rmd_files:
 - 05-blocks.Rmd
 - 06-share.Rmd
 - 07-references.Rmd
+- appendix.Rmd
 language:
   ui:
     chapter_name: "Section "
