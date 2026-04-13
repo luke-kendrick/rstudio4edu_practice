@@ -13,7 +13,7 @@ citations
 cross
 chapters-and-sub-chapters
 captioned-figures-and-tables
-parts
+intro
 blocks
 equations
 theorems-and-proofs
