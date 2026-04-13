@@ -1,5 +1,5 @@
 bookdown::gitbook:
-  highlight: espresso
+  highlight: haddock
   css: style.css
   config:
     toc:
@@ -8,4 +8,12 @@ bookdown::gitbook:
        <li><a href="./">DA Booky Wooky</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
-    download: ["pdf", "epub"]
+    download: ["rmd"]
+    edit:
+      link: https://github.com/username/repository/edit/master/%s
+      text: "Suggest an edit"
+    sharing:
+      github: yes
+      facebook: no
+      twitter: yes
+      all: no
