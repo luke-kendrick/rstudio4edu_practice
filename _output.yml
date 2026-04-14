@@ -1,11 +1,12 @@
 bookdown::gitbook:
   highlight: haddock
-  css: style.css
+  css: assets/style.css
   config:
     toc:
       collapse: section
       before: |
-       <li><a href="./">DA Booky Wooky</a></li>
+        <li class="toc-logo"><a href="./"><img src="images/poop32.png"></a></li>
+        <li><a href="./">DA Booky Wooky</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
     download: ["rmd"]
